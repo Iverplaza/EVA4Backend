@@ -1,0 +1,4 @@
+django == 5.1.1
+pillow
+django-crispy-forms
+django-crispy-bootstrap5
